@@ -14,3 +14,14 @@
  * Jupyter Notebook 2:
  * Jupyter Notebook 3: plotting and analysis
  ...
+ 
+**Data Sources**
+
+*Data Source 1: Spotify API*
+
+*Data Source 2: Database from OxCGRT re: policy responses to COVID-19*
+ * link to Oxford data: https://covidtracker.bsg.ox.ac.uk/
+ * https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker#data
+ * https://covidtracker.bsg.ox.ac.uk/about-api
+ * https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+ * 
