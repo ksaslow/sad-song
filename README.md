@@ -1,4 +1,6 @@
-# Spotify data and COVID-19 lockdown patterns
+# Title 
+
+## Spotify data and COVID-19 lockdown patterns
 
 ### The core concept of the module-1 project is to use Spotify's API and Spotipy for web scraping to analyze country-level listening patterns and if they were influenced by COVID-19 measures. For example:
 *How did the "mood" of the Top Charts from countries change after the government responses to COVID-19 became more strict?*
