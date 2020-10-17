@@ -14,6 +14,7 @@
  * All .csv files with imported data and the dataframes we made
  * Folder "data" with the Oxford database
  * Folder "Spotify_regional" with all the country charts (Top 200 songs, April 2019-September 2020)
+ * Folder "Misc. extra" with non-essential files 
  ...
  
 **Data Sources**
