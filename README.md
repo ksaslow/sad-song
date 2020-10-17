@@ -17,6 +17,11 @@
  * Folder "Misc. extra" with non-essential files 
  ...
  
+ *If you want to replicate our results:*
+  * First run the "spotify_api.ipynb" and the "ox_covid_test.ipynb" notebooks for wrangle the data to use for analysis
+  * Then you can run the "together_test.ipynb" notebook to combine the data and do a comparative analysis
+  * Don't forget to download/upload the .csv files for comparative analysis
+  
 **Data Sources**
 
 *Data Source 1: Data from Spotify API*
