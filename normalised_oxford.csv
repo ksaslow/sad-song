@@ -1,41 +1,41 @@
-,CountryName,Month,PolicyValue
-0,Brazil,February,0.0
-1,Brazil,March,1.0
-2,Brazil,April,1.0
-3,Brazil,May,1.8387096774193548
-4,Brazil,June,2.0
-5,Brazil,July,2.0
-6,Brazil,August,2.225806451612903
-7,Brazil,September,0.0
-8,Italy,February,0.41379310344827586
-9,Italy,March,2.225806451612903
-10,Italy,April,2.3
-11,Italy,May,2.0
-12,Italy,June,0.8666666666666667
-13,Italy,July,0.0
-14,Italy,August,0.0
-15,Italy,September,0.0
-16,Singapore,February,0.0
-17,Singapore,March,0.0
-18,Singapore,April,1.6
-19,Singapore,May,2.0
-20,Singapore,June,1.6
-21,Singapore,July,0.0
-22,Singapore,August,0.0
-23,Singapore,September,0.0
-24,South Africa,February,0.0
-25,South Africa,March,0.3225806451612903
-26,South Africa,April,2.0
-27,South Africa,May,2.0
-28,South Africa,June,1.0
-29,South Africa,July,1.5806451612903225
-30,South Africa,August,0.0
-31,South Africa,September,0.0
-32,USA,February,0.0
-33,USA,March,1.032258064516129
-34,USA,April,2.0
-35,USA,May,2.0
-36,USA,June,2.0
-37,USA,July,1.6129032258064515
-38,USA,August,1.0
-39,USA,September,1.0
+,CountryName,Year_Month,PolicyValue
+0,Brazil,2020-02,0.0
+1,Brazil,2020-03,1.0
+2,Brazil,2020-04,1.0
+3,Brazil,2020-05,1.8387096774193548
+4,Brazil,2020-06,2.0
+5,Brazil,2020-07,2.0
+6,Brazil,2020-08,2.225806451612903
+7,Brazil,2020-09,0.0
+8,Italy,2020-02,0.41379310344827586
+9,Italy,2020-03,2.225806451612903
+10,Italy,2020-04,2.3
+11,Italy,2020-05,2.0
+12,Italy,2020-06,0.8666666666666667
+13,Italy,2020-07,0.0
+14,Italy,2020-08,0.0
+15,Italy,2020-09,0.0
+16,Singapore,2020-02,0.0
+17,Singapore,2020-03,0.0
+18,Singapore,2020-04,1.6
+19,Singapore,2020-05,2.0
+20,Singapore,2020-06,1.6
+21,Singapore,2020-07,0.0
+22,Singapore,2020-08,0.0
+23,Singapore,2020-09,0.0
+24,South Africa,2020-02,0.0
+25,South Africa,2020-03,0.3225806451612903
+26,South Africa,2020-04,2.0
+27,South Africa,2020-05,2.0
+28,South Africa,2020-06,1.0
+29,South Africa,2020-07,1.5806451612903225
+30,South Africa,2020-08,0.0
+31,South Africa,2020-09,0.0
+32,USA,2020-02,0.0
+33,USA,2020-03,1.032258064516129
+34,USA,2020-04,2.0
+35,USA,2020-05,2.0
+36,USA,2020-06,2.0
+37,USA,2020-07,1.6129032258064515
+38,USA,2020-08,1.0
+39,USA,2020-09,1.0
