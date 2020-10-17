@@ -48,12 +48,10 @@
  * Identify and isolate the specific Spotify data we want for our analysis and save .csv files
  * Clean and structure Spotify data 
  * Created Spotify-specific plots (valence over time, dancability over time, streaming patters of Top 10 charts)
- 
  * Find and download database with COVID policy responses (Kate:)
  * Identify and isolate the specific data we want for our analysis and save .csv files
  * Clean and structure Oxford data
  * Created Oxford-specific plots (stringency of stay at home requirements over time per country, comparison of 5 countries, Italy 2019-2020 data to compare to streaming patterns)
-
  * Putting it all together (David:)
  * Harmonize the dataframes from Spotify and Oxford .csv files to compare trends
  * Clean and re-format to ensure the primary key worked for both datasets 
