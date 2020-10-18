@@ -11,8 +11,8 @@
  * Jupyter Notebook: "spotify_api.ipynb" with all data wrangled with Spotify API and preliminary analysis
  * Jupyter Notebook: "ox_covid_test.ipynb" with the data taken from Oxford dataset and cleaned/subsetted to show stay at home requirements
  * Jupyter Notebook: "together_test.ipynb" that puts together our COVID and Spotify dataframes for more plotting and analysis
- * All .csv files with imported data and the dataframes we made
- * Folder "data" with the Oxford database
+ * All .csv files with imported data and the dataframes we made in Folder "data"
+ * Folder "oxford_original_data" with the Oxford database
  * Folder "Spotify_regional" with all the country charts (Top 200 songs, April 2019-September 2020)
  * Folder "Misc. extra" with non-essential files 
  ...
