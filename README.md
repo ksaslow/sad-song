@@ -10,17 +10,17 @@
 *In this repo you will find:*
  * Jupyter Notebook: "spotify_api.ipynb" with all data wrangled with Spotify API and preliminary analysis
  * Jupyter Notebook: "ox_covid_test.ipynb" with the data taken from Oxford dataset and cleaned/subsetted to show stay at home requirements
- * Jupyter Notebook: "together_test.ipynb" that puts together our COVID and Spotify dataframes for more plotting and analysis
- * All .csv files with imported data and the dataframes we made in Folder "data"
+ * Jupyter Notebook: "analysis.ipynb" that puts together our COVID and Spotify dataframes for more plotting and analysis
+ * Folder "data" with all .csv files with imported data and the dataframes we made
  * Folder "oxford_original_data" with the Oxford database
  * Folder "Spotify_regional" with all the country charts (Top 200 songs, April 2019-September 2020)
- * Folder "Misc. extra" with non-essential files 
+ * 
  ...
  
  *If you want to replicate our results:*
   * First run the "spotify_api.ipynb" and the "ox_covid_test.ipynb" notebooks for wrangle the data to use for analysis
-  * Then you can run the "together_test.ipynb" notebook to combine the data and do a comparative analysis
-  * Don't forget to download/upload the .csv files for comparative analysis
+  * Then you can run the "analysis.ipynb" notebook to combine the data and do a comparative analysis
+  * Don't forget to download/upload the .csv files from "data" folder for the comparative analysis done in "analysis.ipynb"
   
 **Data Sources**
 
